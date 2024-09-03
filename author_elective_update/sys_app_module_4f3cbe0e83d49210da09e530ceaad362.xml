@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Special Occasion">a4000b4a83189210da09e530ceaad395</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=Special Day Application Properties&amp;sysparm_category=Special Day Properties</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 05:51:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f3cbe0e83d49210da09e530ceaad362</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Special Days Update</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_4f3cbe0e83d49210da09e530ceaad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 06:54:05</sys_updated_on>
+        <timeline_page/>
+        <title>Special Days Update</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>663c140f1bf1865839a54089bd4bcb72</instance_id>
+        <instance_name>dev261628</instance_name>
+        <name>sys_app_module_4f3cbe0e83d49210da09e530ceaad362</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Special Occasion">a4000b4a83189210da09e530ceaad395</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Properties</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>100</order><override_menu_roles>false</override_menu_roles><query>system_properties_ui.do?sysparm_title=Special Day Application Properties&amp;sysparm_category=Special Day Properties</query><report/><require_confirmation>true</require_confirmation><roles>admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-30 05:51:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f3cbe0e83d49210da09e530ceaad362</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Special Days Update</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_4f3cbe0e83d49210da09e530ceaad362</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-30 06:54:05</sys_updated_on><timeline_page/><title>Special Days Update</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1931361775</payload_hash>
+        <record_name>Special Days Update</record_name>
+        <reverted_from/>
+        <source>ff63faf583941210da09e530ceaad34d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 06:54:05</sys_created_on>
+        <sys_id>4e1c87c283989210da09e530ceaad3f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a21009690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 06:54:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c21c87c20298921048da3f7c546cedf4</update_guid>
+        <update_guid_history>c21c87c20298921048da3f7c546cedf4:-1931361775,24228fca761892106a433b8c64bc79ee:1864006327,c912cf0e7e1892106b1d190a266715b4:-636767625,e1024fca04189210b9b44e4e5369365f:-123792769,a5904b4a0118921032c522bd8bdeed42:839614747,1330874a1c189210c9a2f0460f6e35e5:164873701,2d9efa4236189210c0f4d37f64f51aae:1579810631,25ddbece1bd49210b7021c5db261fb57:-1500408604</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Special Days Update">75dfd3ce83989210da09e530ceaad36b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 08:20:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2a0e8019300347b88a3febed6e5fda79</sys_id>
+        <sys_metadata>4f3cbe0e83d49210da09e530ceaad362</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Special Days Update</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_4f3cbe0e83d49210da09e530ceaad362</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4f3cbe0e83d49210da09e530ceaad362">4e1c87c283989210da09e530ceaad3f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 08:20:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
